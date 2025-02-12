@@ -66,5 +66,15 @@ Ensures that fine image details are reconstructed accurately.
 ![Screenshot 2025-02-11 203005](https://github.com/user-attachments/assets/5ff72e32-d1ec-4f2d-8af4-1fe9318c5e49)
 ![ComfyUI_00006_](https://github.com/user-attachments/assets/9fe06c92-9c2a-4c4c-acfa-3ab018b8b490)
 
+**Snapshot 4:* :
+![image](https://github.com/user-attachments/assets/b9f15683-786e-44b1-be46-895dd13a4090)
+![image](https://github.com/user-attachments/assets/0e92ad1a-b4f7-4293-8b9b-9f66df5acb6d)
+
+**Snapshot 5:* :
+![Screenshot 2025-02-12 132233](https://github.com/user-attachments/assets/539a93b7-9b82-40e3-94aa-fc0e3372ca92)
+![ComfyUI_00018_](https://github.com/user-attachments/assets/9e223902-a2ef-4e20-9752-55f03bfb646e)
+
+
+
 
 
